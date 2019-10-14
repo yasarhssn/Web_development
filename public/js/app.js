@@ -1,4 +1,4 @@
-console.log('client side validation js is loaded')
+
 
 const weatherForm =document.querySelector('form')
 
